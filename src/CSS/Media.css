@@ -1,0 +1,199 @@
+.connecting{
+    height: 700px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.connecting1{
+    /* background-color: red; */
+    height: 600px;
+    /* width: 800px; */
+    margin-left: 50px;
+
+}
+.connecting2{
+    /* background-color: aqua; */
+    height: 500px;
+    width: 700px;
+    margin: 100px 0px 100px 20px ;
+}
+.girlimg{
+    height: 500px;
+    width: 700px;
+}
+.conne{
+    height: 100px;
+    /* background-color: aqua; */
+    font-size: 85px;
+    font-weight: bold;
+    color: white;
+}
+.find{
+    height: 50px;
+    font-size: 37px;
+    color: white;
+    margin-top: 30px;
+}
+.phone{
+    /* background-color: aqua; */
+    height: 150px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.phone1{
+    /* background-color: bisque; */
+    width: 280px;
+    height: 100px;
+}
+.phone2{
+    /* background-color: blue; */
+    width: 280px;
+    height: 100px;
+    margin-left: 10px;
+}
+.Android{
+    height: 100px;
+    width: 280px;
+}
+.secoundbox{
+    height: 700px;
+     background-color: black;
+    display: flex;
+    flex-direction: row;
+
+}
+.secoundbox1{
+    /* background-color: aqua; */
+    height: 600px;
+    /* width:700px ; */
+    margin-left: 30px;
+}
+.secoundbox2{
+    /* background-color: blue; */
+    height: 500px;
+    /* width:550px ; */
+    margin: 40px 0px 20px 40px; 
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.step{
+    height: 600px;
+    width: 700px;
+}
+.flytant{
+    /* background-color: aqua; */
+    height: 60px;
+    font-size: 65px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white;
+}
+.the{
+    /* background-color: plum; */
+    height: 150px;
+    /* width: 400px; */
+    margin: 70px 0px 0px 20px;
+    font-size: 27px;
+    color: white;
+
+}
+.now{
+    background-color:black ;
+    border: 1px solid white;
+    height: 60px;
+   width: 180px;
+   color: white;
+   border-radius: 30px;
+   margin: 50px 0px 0px 50px;
+   text-align: center;
+   line-height: 60px;
+   font-size: 23px;
+   font-weight: bold;
+}
+.now:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+@media screen and (max-width: 600px) {
+   .connecting{
+       flex-direction: column;
+       height: 900px;
+       width: 90%;
+       
+   }.conne{
+    
+    font-size: 55px;
+    font-weight: bold;
+    color: white;
+
+}.connecting1{
+   /* height: 800px; */
+    
+    margin-left: 10px;
+
+}
+.connecting2{
+    height: 300px;
+    width: 500px;
+    margin-top: 0px;
+}
+.find{
+    margin-top: 0px;
+    font-size: 27px;
+}
+.phone{
+    flex-direction: column;
+    height: 300px;
+    margin-top: 0px;
+}
+.phone1{
+    margin: 20px 0px 10px 10px;
+}
+.phone2{
+    margin: 10px 0px 10px 10px;
+}
+.Android{
+    height: 70px;
+    width: 240px;
+}
+.girlimg{
+  height: 300px;
+  width: 80%;
+}
+.secoundbox{
+    flex-direction: column;
+    height:800px ;
+    margin: 10px 20px;
+}
+.secoundbox1{
+    margin: 0px 10px 0px 10px;
+   
+}
+.step{
+    height: 300px;
+    width: 80%;
+    margin-left:20px ;
+}
+.secoundbox2{
+   margin-left: 10px; 
+  margin-top: 0px;
+  width: 90%;
+}
+.flytant{
+    font-size: 50px;
+}
+.the{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.now{
+    height:50px ;
+    width: 150px;
+    margin-top: -20px;
+}
+
+}

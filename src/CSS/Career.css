@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.photobox{
+    display: flex;
+    /* background-color: aqua; */
+    height: 350px;
+    width:800px ;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+.photobox1{
+    height: 350px;
+    width: 800px;
+}
+.textwe{
+    /* background-color: aquamarine; */
+    height: 100px;
+    margin-left: 440px;
+    margin-top: 300px;
+  
+    font-weight: bold;
+    font-size: 110px;
+}
+.smalltext{
+    /* background-color: bisque; */
+    margin-left: 370px;
+    font-size: 38px;
+    margin-top: 80px;
+}
+
+.mynam{
+    /* background-color: bisque; */
+    height: 150px;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.mytext{
+    /* background-color: bisque; */
+    height: 150px;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.icon{
+    /* display: flex; */
+    background-color:rgb(59, 58, 58) ;
+    height: 340px;
+
+}
+.collam{
+    height:120px ;
+    /* background-color: aqua; */
+    margin-left: 130px;
+    width: 120px;
+    border-radius: 60px;
+    margin-top: 50px;
+}
+.collamimg{
+    height: 120px;
+    width: 120px;
+}
+.icontext{
+    /* background-color: aqua; */
+    color: white;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 150px;
+  /* padding-bottom: 50px; */
+}
+.mini{
+    display: flex;
+}
+.sonu{
+    /* background-color: aqua; */
+    height: 30px;
+    width: 400px;
+    margin-top: 100px;
+    font-size: 23px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+
+}.sonumail{
+    /* background-color: aqua; */
+    height: 30px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 30px;
+    font-size: 23px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+
+}
+.sonutext{
+    /* background-color: aqua; */
+    height: 100px;
+    width:840px ;
+    font-size: 23px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+
+}
+.chouse{
+    /* background-color: rgb(204, 201, 201); */
+    height: 50px;
+    width: 840px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    font-size: 20px;
+    box-shadow: 4px 2px  skyblue;
+
+    
+}
+.submit{
+    background-color: rgb(59, 58, 58);
+    height: 70px;
+    width: 180px;
+    border-radius: 40px;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+}
+.mybutten{
+    /* background-color: bisque; */
+    height: 150px;
+    width: 900px;
+    margin-top: -30px;
+    margin-left: 350px;
+    color: white;
+   
+}

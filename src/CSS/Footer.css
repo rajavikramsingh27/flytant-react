@@ -1,0 +1,192 @@
+@font-face {
+    font-family: MPLUSRounded1c-Regular;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Regular.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-Black;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Black.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-bold;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Bold.ttf");
+}
+
+@font-face {
+    font-family: MPLUSRounded1c-ExtraBold;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-ExtraBold.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-Medium;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Medium.ttf");
+}
+
+
+.black5{
+    display: flex;
+    background-color: black;
+    height: 530px;
+    color: white;
+}
+.box1234{
+    /* background-color:red; */
+    height:450px;
+    width: 430px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+.box23{
+    /* background-color: blue; */
+    height: 450px;
+    width: 250px;
+    margin: 10px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.logoname{
+    display: flex;
+    height: 80px;
+    background-color: aqua;
+}
+.logofly{
+    /* background-color: blueviolet; */
+    height: 40px;
+    width: 40;
+    margin-left: 25px;
+    /* margin-top: 10px; */
+}
+.name{
+    font-family: MPLUSRounded1c-Medium;
+    position: absolute;
+    height: 70px;
+    /* background-color:rgb(187, 35, 35); */
+    font-size: 40px;
+    text-align: left;
+    font-weight: bold;
+    margin-top: -60px;
+    line-height: 60px;
+    margin-left: 100px;
+  
+}
+.home{
+    background-color: black;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 23px;
+    color: rgb(175, 173, 173);
+    text-align: center;
+    font-family: MPLUSRounded1c-bold;
+
+}
+.home:hover{
+    color: white;
+    cursor: pointer;
+}
+.Get{
+    /* background-color: aqua; */
+    height: 40px;
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(158, 154, 154);
+    
+    padding-top: 15px;
+}
+.mark{
+    /* background-color: aqua; */
+    height: 60px;
+    width: 230px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.thaapp{
+    height: 60px;
+    width: 230px;
+}
+.thaapp:hover{
+    cursor: pointer;
+}
+.brand{
+    /* background-color: aqua; */
+    height: 50px;
+    font-size: 18px;
+    margin-left: 25px;
+    margin-top: 15px;
+    color:rgb(163, 162, 162); 
+    font-family: MPLUSRounded1c-Medium;
+
+}
+.radiousbox{
+    display: flex;
+    /* background-color: aqua; */
+    height: 90px;
+    margin-top:70px;
+
+}
+.radiousbox:hover{
+    cursor: pointer;
+}
+.radious{
+    /* background-color: black; */
+    height: 50px;
+    width: 50px;
+    margin-left: 5px;
+    border-radius: 40px;
+    border: 3px solid white;
+
+}
+.fa-instagram-square{
+    font-size: 27px;
+    text-align: center;
+    /* margin: 15px; */
+    line-height: 37px;
+    margin-left: 13px;
+    margin-top: 10px;
+
+}
+.fa-youtube{
+    font-size:30px;
+    text-align: center;
+    line-height: 37px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.fa-facebook{
+    font-size: 30px;
+    text-align: center;
+  margin-left: 10px;
+  margin-top: 13px;
+}
+.fa-linkedin{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.fa-twitter-square{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.fa-envelope{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.last{
+    /* background-color: aqua; */
+    height: 20px;
+    border: none;
+    border-bottom:2px solid gray ;
+    
+}
+.line{
+    background-color: black;
+    height: 120px;
+    color: rgb(175, 171, 171);
+    text-align: center;
+    line-height: 80px;
+    font-size: 23px;
+}

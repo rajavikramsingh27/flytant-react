@@ -1,0 +1,86 @@
+.terms{
+    
+    font-size: 40px;
+    margin-left: 250px;
+    margin-top: 100px;
+    font-family: MPLUSRounded1c-Black  ;
+ 
+}
+@font-face {
+    font-family: MPLUSRounded1c-light ;
+    src: url(../Assets/Fonts/font/MPLUSRounded1c-Light.ttf);
+}
+@font-face {
+    font-family: MPLUSRounded1c-Black ;
+    src: url(../Assets/Fonts/font/MPLUSRounded1c-Black.ttf);
+}
+@font-face {
+    font-family: MPLUSRounded1c-Thin ;
+    src: url(../Assets/Fonts/font/MPLUSRounded1c-Thin.ttf);
+}@font-face {
+    font-family: MPLUSRounded1c-Medium ;
+    src: url(../Assets/Fonts/font/MPLUSRounded1c-Medium.ttf);
+}
+.terms1{
+   
+    font-size: 35px;
+    margin:  30px 0px 0px 250px ;
+    width:1100px ;
+    /* font-family: MPLUSRounded1c-black ; */
+
+
+}
+.what{
+    /* background-color: aqua; */
+    /* font-weight:bold; */
+    font-size: 32px;
+    margin:  100px 0px 0px 250px ;
+    font-family: MPLUSRounded1c-Medium;
+}
+.see{
+    /* background-color: bisque; */
+    height: 150px;
+    margin:  30px 420px 0px 300px ;
+    font-size: 25px;
+    color: rgb(92, 91, 91);
+
+
+}
+.Ads1{
+    /* background-color: aqua; */
+     margin:  30px 300px 0px 350px ; 
+     font-size: 25px;
+     list-style-type: decimal;
+     height: 120px;
+     color: rgb(92, 91, 91);
+}
+.what2{
+    /* background-color: aqua; */
+    /* font-weight:bold; */
+    font-size: 32px;
+    margin:  0px 0px 0px 250px ;
+    font-family: MPLUSRounded1c-Medium;
+}
+.when{
+    /* background-color: bisque; */
+    height: 250px;
+    margin:  0px 300px 0px 350px ;
+    font-size: 25px;
+    color: rgb(92, 91, 91);
+
+}
+.may{
+    /* background-color: bisque; */
+    height: 160px;
+    margin:  20px 370px 0px 350px ;
+    font-size: 25px;
+    color: rgb(92, 91, 91);
+
+}
+.this{
+    /* background-color: bisque; */
+    height: 250px;
+    margin:  20px 370px 0px 350px ;
+    font-size: 25px;
+    color: rgb(92, 91, 91);
+}

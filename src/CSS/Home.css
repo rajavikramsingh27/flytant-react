@@ -1,0 +1,355 @@
+@font-face {
+    font-family: MPLUSRounded1c-Regular;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Regular.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-Black;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Black.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-bold;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Bold.ttf");
+}
+
+@font-face {
+    font-family: MPLUSRounded1c-ExtraBold;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-ExtraBold.ttf");
+}
+@font-face {
+    font-family: MPLUSRounded1c-Medium;
+    src: url("/src/Assets/Fonts/font/MPLUSRounded1c-Medium.ttf");
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box2{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(43, 41, 41);
+    height: 550px;
+    /* width: 1600px; */
+    margin-left: 0px;
+}
+.company{
+    /* background-color: aqua; */
+    height: 480px;
+    /* width: 650px; */
+    margin-left: 50px;
+}
+.companyimg{
+    /* background-color: blue; */
+    height: 400px;
+    /* width: 660px; */
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.secound{
+    background-color: black;
+    height: 400px;
+    /* width: 660px; */
+    border-radius: 25px;
+
+}
+.text{
+    /* display: flex; */
+    /* background-color: pink; */
+    height: 70px;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    /* margin: 5px; */
+    font-family: MPLUSRounded1c-Mediam;
+    
+
+}
+.text2{
+    /* background-color: bisque; */
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    margin-top: 70px;
+    color: white;
+    font-size: 28px;
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.minibox{
+    /* background-color: beige; */
+    height: 65px;
+    width: 230px;
+}
+.minibox:hover{
+    cursor: pointer;
+}
+.Apps{
+    /* background-color: azure; */
+    height: 65px;
+    width: 230px;
+    margin-left: 40px;
+}
+.Apps:hover{
+    cursor: pointer;
+}
+.Third{
+    height: 65px;
+    width: 230px;
+
+}
+.img{
+    height: 65px;
+    width: 230px;
+}
+.textimg{
+    display: flex;
+    /* background-color: pink; */
+    flex-direction: row;
+    height: 100px;
+    margin-top: 60px;
+}
+
+
+.iconbox{
+    position: absolute;
+    /* background-color: red; */
+    height: 70px;
+    width: 70px;
+    margin-top:300px;
+    margin-left: 730px;
+    border-radius: 50px;
+    /* border: 4px solid white; */
+}
+.play{
+    height: 70px;
+    width: 70px;
+}
+.play:hover{
+    cursor: pointer;
+}
+
+.black{
+    background-color:rgb(43, 41, 41);
+    height: 1500px;
+    margin-top: 5px;
+    
+}
+.dance{
+    position: absolute;
+    /* background-color: blueviolet; */
+    height: 590px;
+    width: 730px;
+    margin-left:50px ;
+    margin-top: 220px;
+    border-radius: 20px;
+    
+    
+    
+}
+.danceimg{
+    height: 590px;
+    width: 730px;
+}
+.textfor{
+    position: absolute;
+    /* background-color: blue; */
+    height: 500px;
+    width: 490px;
+    margin-left: 850px;
+    margin-top: 300px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+.dotsize{
+    /* background-color: blue; */
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 1000px;
+    margin-top: 120px;
+}
+.dotimg{
+    height: 100px;
+    width: 100px;
+}
+.inf{
+    /* background-color: aqua; */
+    height: 70px;
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 35px;
+     font-family: MPLUSRounded1c-Mediam;
+
+}
+.influ{
+    /* background-color: aqua; */
+    height: 70px;
+    color: white;
+    font-size: 53px;
+    font-weight: bold;
+    margin-left: 40px;
+     font-family: MPLUSRounded1c-Mediam;
+
+
+}
+.the{
+    /* background-color: aqua; */
+    height: 120px;
+    width: 420px;
+    margin-top: 20px;
+}
+.Join{
+    /* background-color: blue; */
+    color: white;
+    height: 30px;
+    font-size: 24px;
+    margin-left: 40px;
+    margin-top: 0px;
+    
+}
+.Joinbutten{
+    background-color: black;
+    height: 55px;
+    width: 230px;
+    margin-left: 45px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: white;
+    font-size: 26px;
+    line-height: 55px;
+    text-align: center;
+    font-weight: bold;
+}
+.Joinbutten:hover{
+    background-color: white;
+    color: black;
+    font-weight: normal;
+    cursor:pointer ;
+}
+
+
+.black4{
+    background-color: rgb(43, 41, 41);
+    height: 180px;
+
+}
+.whiteblack{
+    background-color: white;
+    height: 500px;
+    width: 1150px;
+    position: absolute;
+    margin-left: 90px;
+    font-size: 400px;
+    margin-top: -600px;
+    line-height: 400px;
+    font-weight: bold;
+    text-align: center;
+}
+.dance2{
+    position: absolute;
+    /* background-color: blueviolet; */
+    height: 550px;
+    width: 700px;
+    margin-top: -480px;
+    border-radius: 20px;
+    margin-left: 640px;
+    
+    
+    
+}
+.danceimg2{
+    height: 550px;
+    width: 700px;
+}
+.textfor2{
+    position: absolute;
+    background-color: black;
+    height: 500px;
+    width: 490px;
+    margin-left: 100px;
+    margin-top: -430px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+.black3{
+    background-color: black;
+    height: 750px;
+    margin-top: 140px;
+
+}
+.background2{
+    background-color: white;
+    height: 750px;
+    width: 500px;
+}
+.singingbox{
+    /* background-color: aquamarine;ss */
+    height:530px ;
+    width: 650px;
+    position: absolute;
+    margin-top: -680px;
+    margin-left: 40px;
+}
+.singimg{
+    height: 530px;
+    width: 650px;
+}
+.textfor3{
+    /* background-color: blue; */
+    position: absolute;
+    height: 550px;
+    width: 570px;
+    margin-left:750px;
+    margin-top: -720px;
+    border-radius: 22px;
+    border: 3px solid white;
+}
+.Join6{
+    /* background-color: blue; */
+    color: white;
+    height: 30px;
+    font-size: 23px;
+    margin-left: 40px;
+    margin-top: 12px;
+    
+
+}
+.Joinbutten3{
+    background-color: black;
+    height: 60px;
+    width: 280px;
+    margin-left: 45px;
+    margin-top: 150px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: white;
+    font-size: 26px;
+    line-height: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+.Joinbutten3:hover{
+    cursor: pointer;
+    background-color: white;
+    font-weight: normal;
+    color: black;
+}
+
+/* @media screen and (max-width:600) { */
+    @media screen and (max-width: 600px) {
+
+        .box2{
+            
+            flex-direction: column;
+          max-height: 300px;
+          min-width: 400px;
+
+            
+        }
+    
+}
